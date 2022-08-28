@@ -12,7 +12,7 @@ I used the opencv to detect the text from the image. Then using `Google Map API`
 
 
 ## Example 2:
-#### Here we take the image which has text "Naroda, Ahmedabad, Gujarat"
+#### Here we take the image which has text "Naroda road, Ahmedabad, Gujarat"
 ![alt text](images/2.png)
 #### Output:
 ![alt text](images/Naroda/n2.png)![alt text](images/Naroda/n2.png)
