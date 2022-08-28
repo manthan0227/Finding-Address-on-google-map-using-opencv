@@ -6,8 +6,8 @@ I used the opencv to detect the text from the image. Then using `Google Map API`
 ![text](images/1.png)
 ### We detect the text using tesseract library after that we give the text to the google api to find the address on map. 
 
-![alt text](/images/Gift City/g1.png)
-![alt text](images/Gift City/g2.png)
+![alt text](/images/GiftCity/g1.png)
+![alt text](images/GiftCity/g2.png)
 
 
 ![alt text](images/2.png)
